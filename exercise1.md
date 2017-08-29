@@ -19,7 +19,7 @@ A1 | Python language | A
 A2 | Data structure | A
 A3 | Algorithms | A
 B1 | Agile prime | B
-B2 | Version  | B
+B2 | Version Control | B
 B3 | Unit testing | B
 
 
