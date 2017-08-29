@@ -43,8 +43,10 @@ employee_id | class_id | score | status
 
 ## Requirements
 
+Write SQL code to accomplish the followings:
+
 1. find employees who took at least 2 courses this year
 
 1. find employees who took at least 2 courses each in the last 3 years
 
-1. let certified employee be one who finishes at least 2 courses in group A and one in group B, list all who are certified
+1. let certified employee be one who finishes at least 2 courses in group A and one in group B, find all who are certified
